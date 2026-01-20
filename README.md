@@ -1,3 +1,3 @@
-![header](https://github.com/imaquar/imaquar/blob/main/header.JPEG)
+![header](https://github.com/imaquar/imaquar/blob/main/header.jpg)
 
 ## Hello 👋
