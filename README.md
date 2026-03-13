@@ -1,4 +1,4 @@
-![header](https://github.com/imaquar/imaquar/blob/main/header.jpg)
+![header](https://github.com/imaquar/imaquar/blob/main/banner.jpg)
 
 Email: im.aquar@icloud.com  
 Telegram: [@imaquar](https://t.me/imaquar)
