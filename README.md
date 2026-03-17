@@ -2,7 +2,6 @@
 <h2>Software developer • HSE Student</h2>
 <p>
 Email: <a href="mailto:im.aquar@icloud.com">im.aquar@icloud.com</a> <br>
-Telegram: <a href="https://t.me/imaquar">@imaquar</a>
 </p>
 <h2>Tech Stack</h2>
 <p>
