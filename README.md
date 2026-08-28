@@ -1,7 +1,7 @@
 ![header](https://github.com/imaquar/imaquar/blob/main/banner.jpg)
 <h2>Software developer • HSE Student</h2>
 <p>
-Email: <a href="mailto:im.aquar@icloud.com">im.aquar@icloud.com</a> <br>
+Email: <a href="mailto:im.aquar.business@icloud.com">im.aquar@icloud.com</a> <br>
 </p>
 <h2>Tech Stack</h2>
 <p>
