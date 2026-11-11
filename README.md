@@ -1,4 +1,4 @@
-![header](https://github.com/imaquar/imaquar/blob/main/banner.jpg)
+![header](https://github.com/imaquar/imaquar/blob/main/DSC00094.jpg)
 <h2>Software developer • HSE Student</h2>
 <p>
 Email: <a href="mailto:im.aquar.business@icloud.com">im.aquar.business@icloud.com</a> <br>
